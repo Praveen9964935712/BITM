@@ -1,0 +1,119 @@
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Team created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Team created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Player created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Player created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Player ID: 1
+Name: virat
+Skills: bating
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Exiting...
+Team created successfully.
+Team created successfully.
+Team created successfully.
+Team created successfully.
+Player created successfully.
+Error: player ID already exists
+Exiting...
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Team created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Team created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Player created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Player created successfully.
+Team Formation Tool POC Menu:
+1. Create Player
+2. Read Player
+3. Update Player
+4. Delete Player
+5. Create Team
+6. Create Team Rosters
+7. Track Team Formation Changes
+8. Exit
+Exiting...
